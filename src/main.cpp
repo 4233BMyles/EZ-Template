@@ -112,6 +112,7 @@ void autonomous() {
  * operator control task will be stopped. Re-enabling the robot will restart the
  * task, not resume it from where it left off.
  */
+ //AAAAAHHHHHH HELP ME IM BURNING ALIVE!!!! "MY LEG!" - Frank
 void opcontrol() {
   // This is preference to what you like to drive on
   pros::motor_brake_mode_e_t driver_preference_brake = MOTOR_BRAKE_COAST;
