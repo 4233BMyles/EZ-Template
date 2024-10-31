@@ -147,6 +147,9 @@ void opcontrol() {
     // . . .
     // Put more user control code here!
     // . . 
+    if  (master.get_digital_new_press(DIGITAL_R1)) {
+      
+    }
 
     
 
